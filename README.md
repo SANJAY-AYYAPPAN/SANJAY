@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MrTomHolland
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m SANJAY
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java Developers
+- 📫 How to reach me - Telegram _ @Mr_TomHolland
 
 <!---
 MrTomHolland/MrTomHolland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
